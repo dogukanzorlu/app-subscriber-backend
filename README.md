@@ -6,7 +6,7 @@
 
 * [Pre Requirements](#pre-requirements)
 * [Installation](#installation)
-* [Usage](#usage)
+* [EndPoints](#endpoints)
     * [Device](#device)
         * [Index](#index)
         * [Show](#show)
@@ -36,7 +36,7 @@ $ php artisan schedule:run # for background jobs
 $ php artisan serve
 ```
 
-## Usage
+## Endpoints
 
 ### Device
 
